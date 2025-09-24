@@ -20,7 +20,7 @@
 
 - 👋 Hi, I’m @JasperJin01
 - 👀 I’m interested in ...（去码头整点薯条）
-- 🌱 I’m currently learning ...（学前后端呢，准备找个工作）
+- 🌱 I’m currently learning ...（准备找个LLM相关的工作，但是我是菜鸟）
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...（email: timaxthu@gmail.com）
 - 😄 Pronouns: ...
